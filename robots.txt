@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spachennai.co.in/sitemap.xml
